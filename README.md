@@ -1,6 +1,6 @@
-# vote-plugin-ex
-いいね！プラグインEX
+# いいね！（簡易アンケート）プラグイン EX
 
-■ 詳細
-以下のURLをご確認ください。  
-https://qiita.com/potara/items/5e4d4408576b61fc56c9
+## 詳細
+
+以下の URL をご確認ください。  
+https://potara.net/plugin/vote-ex/
